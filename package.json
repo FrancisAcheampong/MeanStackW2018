@@ -1,0 +1,24 @@
+{
+  "name": "comp308_w2018-lesson2",
+  "version": "1.0.0",
+  "description": "Node.js,Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancisAcheampong/MeanStackW2018.git"
+  },
+  "keywords": [
+    "Node",
+    "Mongo",
+    "angular"
+  ],
+  "author": "francis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancisAcheampong/MeanStackW2018/issues"
+  },
+  "homepage": "https://github.com/FrancisAcheampong/MeanStackW2018#readme"
+}
